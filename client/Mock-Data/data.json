@@ -1,0 +1,26 @@
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Somewhere On Earth",
+            "likes":64,
+            "description": "Cuteness Overloaded",
+            "PostImage": "images/dog1.jpg",
+            "date": "12 February 2022"
+            },
+            {"name":"Neeraj",
+            "location":"Sahyadri",
+            "likes":30,
+            "description": "Never Leave anyone behind",
+            "PostImage": "images/elephant1.jpg",
+            "date": "15 May 2022"
+            },
+            {"name":"Rahul",
+            "location":"Antartica",
+            "likes":30,
+            "description": "Space Cadets chilling out",
+            "PostImage": "images/penguiene.jpg",
+            "date": "10 June 2022"
+            }
+            ]
+}
